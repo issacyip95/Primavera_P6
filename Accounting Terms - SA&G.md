@@ -1,5 +1,5 @@
 #Accounting
 
-[[SA&G]] refers to Selling, General and Administrative Expenses
+[SA&G] refers to Selling, General and Administrative Expenses
 
 
